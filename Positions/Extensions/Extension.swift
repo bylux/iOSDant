@@ -21,5 +21,3 @@ extension UIViewController{
         return image
     }
 }
-
-// test 
